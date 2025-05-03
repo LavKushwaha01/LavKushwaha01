@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LavKushwaha01
+- 👋 Hi, I’m @Lav Kushwaha
 - 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning BackEnd
 - 💞️ I’m looking to collaborate on Linkdin
